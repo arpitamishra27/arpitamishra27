@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 ## ❤️ Let's get connected:
 
-<p><a href="" target="_blank"><img alt="Github" src="" height="30px" /></a> 
+<p><a href="https://arpita-mishra-portfolio.vercel.app/" target="_blank"><img alt="Github" src="" height="30px" /></a> 
   
   <a href="https://twitter.com/arpita_mishra_" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> 
   
